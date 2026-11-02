@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "ExtensionClass",
+  "versions": [
+    {
+      "commit": "b923a0475881072d8fbf22c1e35927a96e3fcf34",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:01:27.597245+00:00"
+    }
+  ]
+}
